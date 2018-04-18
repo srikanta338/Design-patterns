@@ -16,6 +16,7 @@ public class TestDemo {
 //		os2.spec();
 
 // ok
+		System.out.println("demo of factory designe pattern..");
 
    FacDemo fc=new FacDemo();
    Os t1=fc.getInstance("and");
