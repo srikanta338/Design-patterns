@@ -15,6 +15,8 @@ public class TestDemo {
 //		Os os2 = new Ioc();
 //		os2.spec();
 
+// ok
+
    FacDemo fc=new FacDemo();
    Os t1=fc.getInstance("and");
    t1.spec();
